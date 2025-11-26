@@ -1,4 +1,4 @@
-<h1> Santander 2025 - Fundamentos de Lógica de Programação - Classificador de Nível de Herói </h1>
+<h1> Santander 2025 - Fundamentos de Lógica de Programação - Calculadora de Partidas Rankeadas </h1>
 <h2>instruções para entrega</h2>
 2️⃣ Calculadora de partidas Rankeadas
 
